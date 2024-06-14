@@ -1,8 +1,18 @@
 # 50-Days-of-Code
 
-40 days of code, starting from 11th March , 2024 to 31st July, 2024
+50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
-## Day 2: June 12, Tuesday
+## Day 3 : June 13 , Thursday
+
+**Today's Progress**: Paused ML for a bit and started leetcode, made first submission. This is the picture of my old account (im starting a new one from scratch). I hope i can be consistent this time around!
+
+**Thoughts** I thought ill do both ML and leetcode but procastinated a bit so couldnt get to ML! and once again woke up at 6 to code. I think ill do that on purpose now (instead of falling asleep early due to tiredness XD)
+
+**Link(s) to work**
+
+1. <img src="./img/Day03.png" alt="Day 03" style="width: 40%; height: auto;">
+
+## Day 2: June 12, Wednesday
 
 **Today's Progress**: Not much new code, just worked on hyperparameter tuning, and have an issue in the learning rate probably. (see how the loss shoots at step 1300? that's bad )
 I will consult a friend and get back on it on Day 3.
