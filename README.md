@@ -2,6 +2,17 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 4 : June 14 , Friday
+
+**Today's Progress**: Finished basics of cpp and reached recursion.
+
+**Thoughts** Right now its kinda a struggle since its been a while since i coded in cpp, but its fun relearning all the old tricks :).
+Will do ML tomorrow
+
+**Link(s) to work**
+
+1. <img src="./img/Day04.png" alt="Day 04" style="width: 40%; height: auto;">
+
 ## Day 3 : June 13 , Thursday
 
 **Today's Progress**: Paused ML for a bit and started leetcode, made first submission. This is the picture of my old account (im starting a new one from scratch). I hope i can be consistent this time around!
