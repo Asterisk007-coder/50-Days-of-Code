@@ -2,6 +2,17 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 5 : June 15 , Saturday
+
+**Today's Progress**: Had a bad day today so couldnt get to work on the GPT ,
+on the DSA front, i revised STL and iterators in cpp
+
+**Thoughts** I didnt get a lot done today, so ill start early itself tomorrow and try to be more consistent.
+
+**Link(s) to work**
+
+1. <img src="./img/Day05.png" alt="Day 05" style="width: 40%; height: auto;">
+
 ## Day 4 : June 14 , Friday
 
 **Today's Progress**: Finished basics of cpp and reached recursion.
