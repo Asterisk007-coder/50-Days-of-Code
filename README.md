@@ -2,6 +2,16 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 6 : June 16 , Sunday
+
+**Today's Progress**: Worked on the transformer, found out the issue is that its not learning to carry numbers properly, ~90% accuracy on numbers below 6 but only ~60% when carry is involved too. I will try and fix this in next few days.
+
+**Thoughts** : Progress on DSA front has been slow, im planning to wrap up this transformer asap and focus on DSA
+
+**Link(s) to work**
+
+1. <img src="./img/Day06.png" alt="Day 06" style="width: 40%; height: auto;">
+
 ## Day 5 : June 15 , Saturday
 
 **Today's Progress**: Had a bad day today so couldnt get to work on the GPT ,
