@@ -2,6 +2,14 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 7 : June 17 , Monday
+
+**Today's Progress**: More array problems
+
+**Link(s) to work**
+
+1. <img src="./img/Day07.png" alt="Day 07" style="width: 40%; height: auto;">
+
 ## Day 6 : June 16 , Sunday
 
 **Today's Progress**: Worked on the transformer, found out the issue is that its not learning to carry numbers properly, ~90% accuracy on numbers below 6 but only ~60% when carry is involved too. I will try and fix this in next few days.
