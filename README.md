@@ -2,6 +2,14 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 9 : June 19 , Wednesday
+
+**Today's Progress**: Im around halfway through arrays now, i think ill start measuring in terms of number of problems from tomorrow
+
+**Link(s) to work**
+
+1. <img src="./img/Day09.png" alt="Day 09" style="width: 40%; height: auto;">
+
 ## Day 8 : June 18 , Tuesday
 
 **Today's Progress**: Not to be repetitive, but more array problems.
