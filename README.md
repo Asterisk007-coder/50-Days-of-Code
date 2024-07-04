@@ -2,6 +2,16 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 10 : July 03 , Wednesday
+
+**Today's Progress**: Restarted DSA , did a few questions but got only one correct
+
+**Thoughts** : was sick so missed 2 weeks, will try and get back to coding daily again
+
+**Link(s) to work**
+
+1. <img src="./img/Day10.png" alt="Day 10" style="width: 40%; height: auto;">
+
 ## Day 9 : June 19 , Wednesday
 
 **Today's Progress**: Im around halfway through arrays now, i think ill start measuring in terms of number of problems from tomorrow
