@@ -2,6 +2,14 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 11 : July 04 , Thursday
+
+**Today's Progress**: Did an hour of array problems, three correct
+
+**Link(s) to work**
+
+1. <img src="./img/Day11.png" alt="Day 11" style="width: 40%; height: auto;">
+
 ## Day 10 : July 03 , Wednesday
 
 **Today's Progress**: Restarted DSA , did a few questions but got only one correct
