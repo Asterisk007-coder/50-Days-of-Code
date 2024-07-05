@@ -2,6 +2,14 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 12 : July 05 , Friday
+
+**Today's Progress**: Did two hours of array and two pointer problems, three correct
+
+**Link(s) to work**
+
+1. <img src="./img/Day12.png" alt="Day 12" style="width: 40%; height: auto;">
+
 ## Day 11 : July 04 , Thursday
 
 **Today's Progress**: Did an hour of array problems, three correct
