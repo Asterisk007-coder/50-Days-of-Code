@@ -2,6 +2,12 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
+## Day 12 : July 06 , Saturday
+
+**Today's Progress**: Not much coding done, revised some old stuff
+
+**Thoughts**: Was a bad day overall, got fever and had to take rest
+
 ## Day 12 : July 05 , Friday
 
 **Today's Progress**: Did two hours of array and two pointer problems, three correct
