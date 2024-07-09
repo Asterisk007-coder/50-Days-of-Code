@@ -4,6 +4,14 @@
 
 ## Day 12 : July 06 , Saturday
 
+**Today's Progress**: Good day coding wise, got in 2.5 hours of coding and solved 4 problems
+
+**Link(s) to work**
+
+1. <img src="./img/Day13.png" alt="Day 13" style="width: 40%; height: auto;">
+
+## Day 12 : July 06 , Saturday
+
 **Today's Progress**: Not much coding done, revised some old stuff
 
 **Thoughts**: Was a bad day overall, got fever and had to take rest
