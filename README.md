@@ -2,7 +2,16 @@
 
 50 days of code, starting from 11th June , 2024 to 31st July, 2024
 
-## Day 12 : July 06 , Saturday
+## Day 14 : July 08 , Monday
+
+**Today's Progress**: Average day coding wise, got in less than an hour since i was tired after work.
+went for harder problems, managed to solve two.
+
+**Link(s) to work**
+
+1. <img src="./img/Day14.png" alt="Day 14" style="width: 40%; height: auto;">
+
+## Day 12 : July 07, Sunday
 
 **Today's Progress**: Good day coding wise, got in 2.5 hours of coding and solved 4 problems
 
